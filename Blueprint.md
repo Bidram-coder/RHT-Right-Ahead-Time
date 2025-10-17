@@ -1,4 +1,4 @@
-#RHT Visual Blueprint
+RHT Visual Blueprint
 
                         ┌───────────────────────────┐
                         │      Source Code          │
